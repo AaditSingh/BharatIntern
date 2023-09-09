@@ -18,4 +18,4 @@ that of Netflix using using HTML and
 CSS.</h4>
 
 
-<h1>By - AADIT SINGH</h1>
+<h3>| By - AADIT SINGH | </h3>
