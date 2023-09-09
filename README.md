@@ -16,3 +16,6 @@ Celsius to Fahrenheit and etc.</h4>
 <h4>A simple website having similar homepage
 that of Netflix using using HTML and
 CSS.</h4>
+
+
+<h1>By - AADIT SINGH</h1>
